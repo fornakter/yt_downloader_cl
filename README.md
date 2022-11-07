@@ -1,2 +1,3 @@
 # yt_downloader_cl
-Download videos from YT, commandline 
+Download video or audio from YouTube.
+Simple console app
